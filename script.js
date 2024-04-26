@@ -25,7 +25,7 @@ const questions = [
       "Which of the following is NOT a valid way to include JavaScript in an HTML document?",
     answers: [
       {
-        text: " Using the <script> tag with the src attribute",
+        text: " Using the script tag with the src attribute",
         correct: false,
       },
       {
@@ -33,7 +33,7 @@ const questions = [
         correct: true,
       },
       {
-        text: " Using the <script> tag with inline JavaScript code",
+        text: " Using the script tag with inline JavaScript code",
         correct: false,
       },
       {
