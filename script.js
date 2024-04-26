@@ -29,7 +29,7 @@ const questions = [
         correct: false,
       },
       {
-        text: 'Using the <link> tag with a rel attribute of "stylesheet"',
+        text: 'Using the link tag with a rel attribute of "stylesheet"',
         correct: true,
       },
       {
